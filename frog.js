@@ -515,7 +515,7 @@ client.on('message', message => {
 client.user.setActivity("Type c!help for help!");
 });
 
-//chocobot
-client.login('MzY3ODUwMDE2MzY0MTY3MTcw.DMBaig.3fr8qMy3NxYamIZvuM9EjfFzQts');
+//chocobot--> thanks I learned my lesson
+client.login('token_here');
 //test bot
-//client.login('MzYxMjExNjAzNDg1NzIwNTc2.DKg0Rg.3Le3jKq3NVclz8TfeFr_ItwC8m0');
+//client.login('Token_here');
